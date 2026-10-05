@@ -33,7 +33,7 @@ def main():
     policy=json.loads(pathlib.Path(f'update/policy-{channel}.json').read_text(encoding='utf-8-sig'))
     forced=policy['maxForcedVersionCode']; revision=policy['policyRevision']
     assert type(forced)==int and type(revision)==int and 0<=forced<code and revision>0 and policy['reason']
-    target=pathlib.Path('update/update-beta.json' if channel=='beta' else 'update/update.json')
+    target=pathlib.Path('update/update-series2-beta.json' if channel=='beta' else 'update/update-series2.json')
     if target.exists():
         previous=json.loads(target.read_text()); assert revision>previous['policyRevision'] and code>previous['versionCode']
     official=assets[0]['browser_download_url']; assert urllib.parse.urlparse(official).hostname=='github.com'
