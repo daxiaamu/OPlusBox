@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "publishedAt": "2026-10-05T17:00:22Z",
+  "changelog": "OPLUS盒子 1.0.0\r\n\r\n适用于 ColorOS 17。\r\n\r\n- 系统信息与 ROOT、模块状态检查\r\n- 相册实况导出、应用跳转永久允许等系统增强\r\n- 系统更新工具、动画与模糊设置\r\n- ColorOS 原生界面与应用内更新\r\n\r\n部分功能需要 ROOT 或 LSPosed 模块激活。\r\n",
+  "maxForcedVersionCode": 0,
+  "policyRevision": 1,
+  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v1.0.0/app-release.apk",
+  "urls": [
+    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v1.0.0/app-release.apk",
+    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v1.0.0/app-release.apk",
+    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v1.0.0/app-release.apk",
+    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v1.0.0/app-release.apk",
+    "https://ghp.keleyaa.com/https://github.com/daxiaamu/OPlusBox/releases/download/v1.0.0/app-release.apk",
+    "https://github.com/daxiaamu/OPlusBox/releases/download/v1.0.0/app-release.apk"
+  ],
+  "sha256": "6f6e8b5633c62f87eb7fd76875b52f95780da652a767dc67fb9ffceeb4e9c31d",
+  "size": 3145991,
+  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v1.0.0",
+  "policyReason": "首次发布，不强制更新"
+}
