@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "versionCode": 1,
+  "versionName": "0.0.6",
+  "publishedAt": "2026-10-05T18:52:08Z",
+  "changelog": "更新内容：\r\n- 修复检查更新弹窗闪退及系统组件状态恢复异常。\r\n- 调整 ColorOS 17 原生界面和交互。\r\n- 支持应用跳转永久允许。\r\n- 强制启用本地安装使用独立模块开关。\r\n- 降级安装使用独立 ROOT 流程，仅临时禁止系统更新相关服务联网。\r\n- 系统更新重启将切换 A/B 槽位时提醒确认 ROOT。\r\n- EDL 使用普通二次确认。\r\n\r\n版本号 0.0.6，versionCode 从 1 重新开始，适用于 ColorOS 17。\r\n",
+  "maxForcedVersionCode": 0,
+  "policyRevision": 1,
+  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.6/OPLUSBox-0.0.6.apk",
+  "urls": [
+    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.6/OPLUSBox-0.0.6.apk",
+    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.6/OPLUSBox-0.0.6.apk",
+    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.6/OPLUSBox-0.0.6.apk",
+    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.6/OPLUSBox-0.0.6.apk",
+    "https://ghp.keleyaa.com/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.6/OPLUSBox-0.0.6.apk",
+    "https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.6/OPLUSBox-0.0.6.apk"
+  ],
+  "sha256": "61c94edcd63a9c469ab8119362d24e2570840a89076f89334f4f4e1e3280aefb",
+  "size": 3137767,
+  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v0.0.6",
+  "policyReason": "版本序列重置，不强制更新"
+}
