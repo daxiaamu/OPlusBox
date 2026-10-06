@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionCode": 2,
-  "versionName": "0.0.7",
-  "publishedAt": "2026-10-05T19:24:42Z",
-  "changelog": "适配 LSPosed 的发布加固。\r\n\r\n动画与模糊等级按系统当前生效值选中，在实际默认档位后标注“（系统默认）”，并区分等待重启的设置。\r\n\r\n改进中文开发者选项中“禁用系统优化”的显示。\r\n",
+  "versionCode": 4,
+  "versionName": "0.0.9",
+  "publishedAt": "2026-10-06T10:48:42Z",
+  "changelog": "- 更新检查改用大侠阿木自有 API。\r\n- 修复平台动画、窗口模糊等级在非 Magisk ROOT 方案下设置失败。\r\n- 修正动画等级的生效提示，改进模糊开关的状态校验。\r\n- 有 ROOT 授权时优先静默安装更新，成功后自动重新打开应用。\r\n\r\n本版未加固、未启用 R8。ROOT 自更新后自动打开尚待实机验证。\r\n",
   "maxForcedVersionCode": 0,
-  "policyRevision": 2,
-  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.7/OPLUSBox-0.0.7.apk",
+  "policyRevision": 3,
+  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.9/OPLUSBox-0.0.9.apk",
   "urls": [
-    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.7/OPLUSBox-0.0.7.apk",
-    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.7/OPLUSBox-0.0.7.apk",
-    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.7/OPLUSBox-0.0.7.apk",
-    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.7/OPLUSBox-0.0.7.apk",
-    "https://ghp.keleyaa.com/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.7/OPLUSBox-0.0.7.apk",
-    "https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.7/OPLUSBox-0.0.7.apk"
+    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.9/OPLUSBox-0.0.9.apk",
+    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.9/OPLUSBox-0.0.9.apk",
+    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.9/OPLUSBox-0.0.9.apk",
+    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.9/OPLUSBox-0.0.9.apk",
+    "https://ghp.keleyaa.com/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.9/OPLUSBox-0.0.9.apk",
+    "https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.9/OPLUSBox-0.0.9.apk"
   ],
-  "sha256": "5ec3ab4b533bbb9e6d63865f4db0ff5bc2de65c66b22826473cf7af2ce03a1c7",
-  "size": 5293324,
-  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v0.0.7",
+  "sha256": "d088f513bbe1049f586f2d1b022be8801ef20dbfcd6065483456ac3248b3850d",
+  "size": 24313139,
+  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v0.0.9",
   "policyReason": "Regular optional update"
 }
