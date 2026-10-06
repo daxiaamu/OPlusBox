@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionCode": 4,
-  "versionName": "0.0.9",
-  "publishedAt": "2026-10-06T10:48:42Z",
-  "changelog": "- 更新检查改用大侠阿木自有 API。\r\n- 修复平台动画、窗口模糊等级在非 Magisk ROOT 方案下设置失败。\r\n- 修正动画等级的生效提示，改进模糊开关的状态校验。\r\n- 有 ROOT 授权时优先静默安装更新，成功后自动重新打开应用。\r\n\r\n本版未加固、未启用 R8。ROOT 自更新后自动打开尚待实机验证。\r\n",
+  "versionCode": 5,
+  "versionName": "0.0.10",
+  "publishedAt": "2026-10-06T13:22:42Z",
+  "changelog": "- 修复修改更新说明后检查更新失败，保留旧缓存兼容。\r\n- 更新弹窗使用系统 COUI 原生材质，修复暗色模式正文颜色。\r\n- 下载、校验和安装进度统一显示在按钮上。\r\n- 检查更新入口改用 COUI 原生红点。\r\n- 提取系统更新包时上报至原 E4A 版服务器。\r\n- 简化降级安装提示；资源入口更名为“下载ROM和玩机资源”。\r\n\r\n本版未加固、未启用 R8。\r\n",
   "maxForcedVersionCode": 0,
-  "policyRevision": 3,
-  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.9/OPLUSBox-0.0.9.apk",
+  "policyRevision": 4,
+  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.10/OPLUSBox-0.0.10.apk",
   "urls": [
-    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.9/OPLUSBox-0.0.9.apk",
-    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.9/OPLUSBox-0.0.9.apk",
-    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.9/OPLUSBox-0.0.9.apk",
-    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.9/OPLUSBox-0.0.9.apk",
-    "https://ghp.keleyaa.com/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.9/OPLUSBox-0.0.9.apk",
-    "https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.9/OPLUSBox-0.0.9.apk"
+    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.10/OPLUSBox-0.0.10.apk",
+    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.10/OPLUSBox-0.0.10.apk",
+    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.10/OPLUSBox-0.0.10.apk",
+    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.10/OPLUSBox-0.0.10.apk",
+    "https://ghp.keleyaa.com/https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.10/OPLUSBox-0.0.10.apk",
+    "https://github.com/daxiaamu/OPlusBox/releases/download/v0.0.10/OPLUSBox-0.0.10.apk"
   ],
-  "sha256": "d088f513bbe1049f586f2d1b022be8801ef20dbfcd6065483456ac3248b3850d",
-  "size": 24313139,
-  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v0.0.9",
+  "sha256": "6d391500e0222ba7d0c3a7d4fece22cab334c37c93dde68aa79bb3038acfa04a",
+  "size": 24317235,
+  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v0.0.10",
   "policyReason": "Regular optional update"
 }
