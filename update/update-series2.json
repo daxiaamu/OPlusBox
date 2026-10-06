@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionCode": 7,
-  "versionName": "1.9.10",
-  "publishedAt": "2026-10-06T16:05:30Z",
-  "changelog": "- 修复降级安装转交文件授权不完整，导致系统更新提示“读取文件错误”的问题。\n",
+  "versionCode": 8,
+  "versionName": "1.9.11",
+  "publishedAt": "2026-10-06T17:11:18Z",
+  "changelog": "- 修复“禁用系统更新”重启后失效的问题。\r\n- 关闭“禁用系统更新”时恢复相关服务联网，无需重启。\r\n- 设置页面增加“关注大侠阿木”的完整入口。\r\n",
   "maxForcedVersionCode": 0,
-  "policyRevision": 6,
-  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v1.9.10/OPLUSBox-1.9.10.apk",
+  "policyRevision": 7,
+  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v1.9.11/OPLUSBox-1.9.11.apk",
   "urls": [
-    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v1.9.10/OPLUSBox-1.9.10.apk",
-    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v1.9.10/OPLUSBox-1.9.10.apk",
-    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v1.9.10/OPLUSBox-1.9.10.apk",
-    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v1.9.10/OPLUSBox-1.9.10.apk",
-    "https://ghp.keleyaa.com/https://github.com/daxiaamu/OPlusBox/releases/download/v1.9.10/OPLUSBox-1.9.10.apk",
-    "https://github.com/daxiaamu/OPlusBox/releases/download/v1.9.10/OPLUSBox-1.9.10.apk"
+    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v1.9.11/OPLUSBox-1.9.11.apk",
+    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v1.9.11/OPLUSBox-1.9.11.apk",
+    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v1.9.11/OPLUSBox-1.9.11.apk",
+    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v1.9.11/OPLUSBox-1.9.11.apk",
+    "https://ghp.keleyaa.com/https://github.com/daxiaamu/OPlusBox/releases/download/v1.9.11/OPLUSBox-1.9.11.apk",
+    "https://github.com/daxiaamu/OPlusBox/releases/download/v1.9.11/OPLUSBox-1.9.11.apk"
   ],
-  "sha256": "4398793027873aa9d59d29e32548e6895b7f18164b187fd76d76e3429dffca80",
-  "size": 5309708,
-  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v1.9.10",
+  "sha256": "217cea16d2f038726068963a583a77269d8ef12d367bedd891c285c0d34e8c01",
+  "size": 5317900,
+  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v1.9.11",
   "policyReason": "Regular optional update"
 }
