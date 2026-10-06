@@ -4,7 +4,7 @@
   "versionCode": 8,
   "versionName": "1.9.11",
   "publishedAt": "2026-10-06T17:11:18Z",
-  "changelog": "- 修复“禁用系统更新”重启后失效的问题。\r\n- 关闭“禁用系统更新”时恢复相关服务联网，无需重启。\r\n- 设置页面增加“关注大侠阿木”的完整入口。\r\n",
+  "changelog": "- 修复“禁用系统更新”重启后失效的问题。\r\n- 关闭“禁用系统更新”时恢复相关服务联网，无需重启。\r\n- 设置页面增加“关注大侠阿木”的完整入口。\n\n机场推荐：[白月光，稳定高速](https://www.sibker.com/register?invite_code=Nn2kuFea)\n",
   "maxForcedVersionCode": 0,
   "policyRevision": 7,
   "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v1.9.11/OPLUSBox-1.9.11.apk",
