@@ -1,1 +1,5 @@
-{"maxForcedVersionCode": 0, "policyRevision": 10, "reason": "Regular optional update"}
+{
+  "maxForcedVersionCode": 0,
+  "policyRevision": 11,
+  "reason": "Regular optional update"
+}
