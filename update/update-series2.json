@@ -4,7 +4,7 @@
   "versionCode": 15,
   "versionName": "2.1.1",
   "publishedAt": "2026-10-08T14:26:56Z",
-  "changelog": "- 修复提取系统更新包时误报没有更新的问题，使用原生对话框展示并支持分享，大小按 GB／MB 显示；后台静默上报，保留来源与 OPLUS盒子网址。\r\n- 关闭系统更新时清除已有更新任务，避免跳转到软件更新；入口提示改为“软件更新已被【OPLUS盒子】关闭”。\r\n",
+  "changelog": "- 关闭系统更新时清除已有更新任务，避免跳转到软件更新。\r\n",
   "maxForcedVersionCode": 0,
   "policyRevision": 15,
   "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.1.1/OPLUSBox-2.1.1.apk",
