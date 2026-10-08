@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionCode": 14,
-  "versionName": "2.1.0",
-  "publishedAt": "2026-10-08T13:29:27Z",
-  "changelog": "支持运行在ColorOS 16上，但功能可用性不做保证",
+  "versionCode": 15,
+  "versionName": "2.1.1",
+  "publishedAt": "2026-10-08T14:26:56Z",
+  "changelog": "- 修复提取系统更新包时误报没有更新的问题，使用原生对话框展示并支持分享，大小按 GB／MB 显示；后台静默上报，保留来源与 OPLUS盒子网址。\r\n- 关闭系统更新时清除已有更新任务，避免跳转到软件更新；入口提示改为“软件更新已被【OPLUS盒子】关闭”。\r\n",
   "maxForcedVersionCode": 0,
-  "policyRevision": 14,
-  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.1.0/OPLUSBox-2.1.0.apk",
+  "policyRevision": 15,
+  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.1.1/OPLUSBox-2.1.1.apk",
   "urls": [
-    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.1.0/OPLUSBox-2.1.0.apk",
-    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.1.0/OPLUSBox-2.1.0.apk",
-    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v2.1.0/OPLUSBox-2.1.0.apk",
-    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v2.1.0/OPLUSBox-2.1.0.apk",
-    "https://ghp.keleyaa.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.1.0/OPLUSBox-2.1.0.apk",
-    "https://github.com/daxiaamu/OPlusBox/releases/download/v2.1.0/OPLUSBox-2.1.0.apk"
+    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.1.1/OPLUSBox-2.1.1.apk",
+    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.1.1/OPLUSBox-2.1.1.apk",
+    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v2.1.1/OPLUSBox-2.1.1.apk",
+    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v2.1.1/OPLUSBox-2.1.1.apk",
+    "https://ghp.keleyaa.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.1.1/OPLUSBox-2.1.1.apk",
+    "https://github.com/daxiaamu/OPlusBox/releases/download/v2.1.1/OPLUSBox-2.1.1.apk"
   ],
-  "sha256": "12351362a477a0991626dcb731d1701b5a0f451942067ce0edf66cea0f1215c5",
-  "size": 5510247,
-  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v2.1.0",
+  "sha256": "3c4b1e59224e7291d7aa77de6ff5bfd1cf8180f6e19753fe930e7cf45cf255fe",
+  "size": 5514343,
+  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v2.1.1",
   "policyReason": "Regular optional update"
 }
