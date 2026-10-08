@@ -4,20 +4,20 @@
   "versionCode": 13,
   "versionName": "2.0.0",
   "publishedAt": "2026-10-08T00:42:38Z",
-  "changelog": "- 新增“使分身应用流量经过 VPN”，接管分身应用联网流量。\r\n- 网络共享 VPN 拆分为热点、蓝牙、USB、以太网四个独立开关，各自管理，不统一接管。\r\n- 五项 VPN 功能统一归入独立的“网络增强”分组。\r\n- 开启和关闭时通过 ROOT 即时调整对应路由，模块负责重启后的配置恢复。\r\n- “关闭系统更新”的操作提示统一为“系统更新已关闭”和“系统更新已恢复”。\r\n\r\n机场推荐：[白月光，稳定高速](https://www.sibker.com/register?invite_code=Nn2kuFea)\r\n",
+  "changelog": "- 修复进入软件更新时可能漏掉关闭联网提醒的问题，移除多余的跨进程状态查询。\n- 修复入口页面切换时过早记录已提示的问题。\n- 网络共享关闭失败时回滚开关配置，避免界面状态与实际规则不一致。\n- 新增“使分身应用流量经过 VPN”，接管分身应用联网流量。\n- 网络共享 VPN 拆分为热点、蓝牙、USB、以太网四个独立开关，各自管理，不统一接管。\n- 五项 VPN 功能统一归入独立的“网络增强”分组。\n- 开启和关闭时通过 ROOT 即时调整对应路由，模块负责重启后的配置恢复。\n- “关闭系统更新”的操作提示统一为“系统更新已关闭”和“系统更新已恢复”。\n\n机场推荐：[白月光，稳定高速](https://www.sibker.com/register?invite_code=Nn2kuFea)\n",
   "maxForcedVersionCode": 0,
-  "policyRevision": 12,
-  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.0.0/OPLUSBox-2.0.0.apk",
+  "policyRevision": 13,
+  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.0.0/OPLUSBox-2.0.0.apk?v=86bd8afea509",
   "urls": [
-    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.0.0/OPLUSBox-2.0.0.apk",
-    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.0.0/OPLUSBox-2.0.0.apk",
-    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v2.0.0/OPLUSBox-2.0.0.apk",
-    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v2.0.0/OPLUSBox-2.0.0.apk",
-    "https://ghp.keleyaa.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.0.0/OPLUSBox-2.0.0.apk",
-    "https://github.com/daxiaamu/OPlusBox/releases/download/v2.0.0/OPLUSBox-2.0.0.apk"
+    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.0.0/OPLUSBox-2.0.0.apk?v=86bd8afea509",
+    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.0.0/OPLUSBox-2.0.0.apk?v=86bd8afea509",
+    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v2.0.0/OPLUSBox-2.0.0.apk?v=86bd8afea509",
+    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v2.0.0/OPLUSBox-2.0.0.apk?v=86bd8afea509",
+    "https://ghp.keleyaa.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.0.0/OPLUSBox-2.0.0.apk?v=86bd8afea509",
+    "https://github.com/daxiaamu/OPlusBox/releases/download/v2.0.0/OPLUSBox-2.0.0.apk?v=86bd8afea509"
   ],
-  "sha256": "faa55919ac84c6ebedfd5eb465a4b744a2807c35c10f8ab7a43df6a4e4da68bb",
-  "size": 5510490,
+  "sha256": "86bd8afea509e634c4353ca70c0bd31679bec0ed391e9325e4bdc5f06cfca786",
+  "size": 5502298,
   "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v2.0.0",
   "policyReason": "Regular optional update"
 }
