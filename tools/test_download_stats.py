@@ -20,6 +20,12 @@ class DownloadStatsTest(unittest.TestCase):
         assets=merge_assets(merge_assets([], [release(count=7)]),[])
         self.assertEqual(7,assets[0]["downloads"])
         self.assertFalse(assets[0]["available"])
+    def test_two_repositories_have_independent_asset_counters(self):
+        first=release(count=7)
+        other=dict(release(count=4),repository="Xposed-Modules-Repo/com.daxiaamu.oplusbox")
+        assets=merge_assets([], [first,other])
+        self.assertEqual(11,sum(a["downloads"] for a in assets))
+        self.assertEqual(2,len(assets))
     def test_replaced_asset_keeps_both_observed_counters(self):
         assets=merge_assets(merge_assets([], [release(count=7)]),[release(2,count=4)])
         self.assertEqual(11,sum(a["downloads"] for a in assets))
