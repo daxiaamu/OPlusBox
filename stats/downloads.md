@@ -1,0 +1,22 @@
+# APK 下载统计
+
+累计记录：**1,537 次**
+
+最近统计变化：2026-10-16T20:32:59Z（UTC）
+
+| 版本 | APK | 下载次数 | 状态 |
+| --- | --- | ---: | --- |
+| [v2.2.1](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.2.1) | OPLUSBox-2.2.1.apk | 0 | 可下载 |
+| [v2.1.1](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.1.1) | OPLUSBox-2.1.1.apk | 783 | 可下载 |
+| [v2.1.0](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.1.0) | OPLUSBox-2.1.0.apk | 31 | 可下载 |
+| [v2.0.0](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.0.0) | OPLUSBox-2.0.0.apk | 170 | 可下载 |
+| [v1.9.15](https://github.com/daxiaamu/OPlusBox/releases/tag/v1.9.15) | OPLUSBox-1.9.15.apk | 78 | 可下载 |
+| [v1.9.14](https://github.com/daxiaamu/OPlusBox/releases/tag/v1.9.14) | OPLUSBox-1.9.14.apk | 417 | 可下载 |
+| [v1.9.13](https://github.com/daxiaamu/OPlusBox/releases/tag/v1.9.13) | OPLUSBox-1.9.13.apk | 12 | 可下载 |
+| [v1.9.12](https://github.com/daxiaamu/OPlusBox/releases/tag/v1.9.12) | OPLUSBox-1.9.12.apk | 13 | 可下载 |
+| [v1.9.11](https://github.com/daxiaamu/OPlusBox/releases/tag/v1.9.11) | OPLUSBox-1.9.11.apk | 10 | 可下载 |
+| [v1.9.10](https://github.com/daxiaamu/OPlusBox/releases/tag/v1.9.10) | OPLUSBox-1.9.10.apk | 23 | 可下载 |
+
+每小时及发布事件后自动统计，也可在 Actions 中手动运行。
+
+数据来自 GitHub Release 资源的 download_count，表示下载次数，不是独立用户数；CDN 缓存命中不会计入 GitHub 下载量。统计启用前已删除的资源无法追溯。

@@ -1,0 +1,36 @@
+name: APK download statistics
+on:
+  schedule:
+    - cron: '23 * * * *'
+  release:
+    types: [published, edited, deleted]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: apk-download-statistics
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+      - name: Collect APK download counts
+        run: python3 tools/update_download_stats.py
+      - name: Commit changed statistics
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          set -euo pipefail
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add stats/downloads.json stats/downloads.md stats/downloads.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'chore: update APK download statistics'
+          git pull --rebase origin "$DEFAULT_BRANCH"
+          git push origin "HEAD:$DEFAULT_BRANCH"
