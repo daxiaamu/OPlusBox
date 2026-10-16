@@ -4,9 +4,9 @@
   "versionCode": 17,
   "versionName": "2.2.1",
   "publishedAt": "2026-10-16T20:26:38Z",
-  "changelog": "- 新增 5G 网络模式选择，支持自动选择、NSA／SA、仅 NSA、仅 SA，沿用系统原生流程，即时切换并保存。\r\n- 信息页新增 ARB 异步检测及“了解ARB”入口。\r\n- 平台动画等级和窗口模糊等级迁移至 LSP 模块，无需额外 ROOT 模块，并清理旧模块。\r\n- 验证 ColorOS 16 的动画与模糊 Hook，收紧作用范围。\r\n- 修复未连接 VPN 时 USB 等网络共享无法联网的问题：无 VPN 时使用系统共享，连接 VPN 后自动转接。\r\n\r\n机场推荐：[Sibker](https://www.sibker.com/register?invite_code=Nn2kuFea)\r\n",
+  "changelog": "- 新增 5G 网络模式选择，支持自动选择、NSA／SA、仅 NSA、仅 SA，沿用系统原生流程，即时切换并保存。\n- 信息页新增 ARB 异步检测及“了解ARB”入口。\n- 平台动画等级和窗口模糊等级迁移至 LSP 模块，无需额外 ROOT 模块，并清理旧模块。\n- 验证 ColorOS 16 的动画与模糊 Hook，收紧作用范围。\n\n机场推荐：[Sibker](https://www.sibker.com/register?invite_code=Nn2kuFea)\n",
   "maxForcedVersionCode": 0,
-  "policyRevision": 17,
+  "policyRevision": 18,
   "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.2.1/OPLUSBox-2.2.1.apk",
   "urls": [
     "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.2.1/OPLUSBox-2.2.1.apk",
