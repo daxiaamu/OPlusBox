@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "repository": "daxiaamu/OPlusBox",
-  "updatedAt": "2026-10-19T00:15:28Z",
-  "totalDownloads": 1815,
+  "updatedAt": "2026-10-19T04:55:24Z",
+  "totalDownloads": 1844,
   "downloadsByRepository": {
-    "daxiaamu/OPlusBox": 1797,
+    "daxiaamu/OPlusBox": 1826,
     "Xposed-Modules-Repo/com.daxiaamu.oplusbox": 18
   },
   "assets": [
@@ -22,7 +22,7 @@
       "id": 648521688,
       "tag": "v2.2.1",
       "name": "OPLUSBox-2.2.1.apk",
-      "downloads": 257,
+      "downloads": 285,
       "publishedAt": "2026-10-16T20:26:38Z",
       "available": true
     },
@@ -58,7 +58,7 @@
       "id": 621916132,
       "tag": "v2.1.0",
       "name": "OPLUSBox-2.1.0.apk",
-      "downloads": 31,
+      "downloads": 32,
       "publishedAt": "2026-10-08T13:29:27Z",
       "available": true
     },
