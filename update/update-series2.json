@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionCode": 18,
-  "versionName": "2.3.0",
-  "publishedAt": "2026-10-21T17:56:12Z",
+  "versionCode": 19,
+  "versionName": "2.3.1",
+  "publishedAt": "2026-10-21T18:15:38Z",
   "changelog": "- 新增“桌面增强”分组，集中管理三个桌面功能。\r\n- 新增“展开桌面长按菜单”，长按应用图标直接显示完整菜单。\r\n- 新增“抽屉左侧字母索引”，支持连续滑动定位应用，并滑入候选应用后松手打开。\r\n- 新增“字母索引波浪效果”，触点附近字母向内凸出并放大，左右两侧镜像呈现。\r\n\r\n机场推荐：[Sibker](https://www.sibker.com/register?invite_code=Nn2kuFea)\r\n",
   "maxForcedVersionCode": 0,
-  "policyRevision": 19,
-  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.3.0/OPLUSBox-2.3.0.apk",
+  "policyRevision": 20,
+  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.3.1/OPLUSBox-2.3.1.apk",
   "urls": [
-    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.3.0/OPLUSBox-2.3.0.apk",
-    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.3.0/OPLUSBox-2.3.0.apk",
-    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v2.3.0/OPLUSBox-2.3.0.apk",
-    "https://gh.monlor.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.3.0/OPLUSBox-2.3.0.apk",
-    "https://ghproxy.vip/https://github.com/daxiaamu/OPlusBox/releases/download/v2.3.0/OPLUSBox-2.3.0.apk",
-    "https://github.com/daxiaamu/OPlusBox/releases/download/v2.3.0/OPLUSBox-2.3.0.apk"
+    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.3.1/OPLUSBox-2.3.1.apk",
+    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.3.1/OPLUSBox-2.3.1.apk",
+    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v2.3.1/OPLUSBox-2.3.1.apk",
+    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v2.3.1/OPLUSBox-2.3.1.apk",
+    "https://gh.monlor.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.3.1/OPLUSBox-2.3.1.apk",
+    "https://github.com/daxiaamu/OPlusBox/releases/download/v2.3.1/OPLUSBox-2.3.1.apk"
   ],
-  "sha256": "34b1e14160869bde20a2b99b226fe031cbb2b703982e3129d3d72f8d064da95c",
+  "sha256": "1ae6cea9e5269247fdfa887c2fea275bd6f918dd906be72e19c494e1bf943a80",
   "size": 5579879,
-  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v2.3.0",
+  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v2.3.1",
   "policyReason": "Regular optional update"
 }
