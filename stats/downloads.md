@@ -1,17 +1,17 @@
 # APK 下载统计
 
-累计记录：**2,942 次**
+累计记录：**2,990 次**
 
-最近统计变化：2026-10-27T00:35:38Z（UTC）
+最近统计变化：2026-10-27T06:25:48Z（UTC）
 
 | 仓库 | 累计记录 |
 | --- | ---: |
-| [daxiaamu/OPlusBox](https://github.com/daxiaamu/OPlusBox) | 2,908 |
+| [daxiaamu/OPlusBox](https://github.com/daxiaamu/OPlusBox) | 2,956 |
 | [Xposed-Modules-Repo/com.daxiaamu.oplusbox](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox) | 34 |
 
 | 仓库 | 版本 | APK | 下载次数 | 状态 |
 | --- | --- | --- | ---: | --- |
-| daxiaamu/OPlusBox | [v2.4.0](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.4.0) | OPLUSBox-2.4.0.apk | 22 | 可下载 |
+| daxiaamu/OPlusBox | [v2.4.0](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.4.0) | OPLUSBox-2.4.0.apk | 69 | 可下载 |
 | Xposed-Modules-Repo/com.daxiaamu.oplusbox | [19-2.3.1](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox/releases/tag/19-2.3.1) | OPLUSBox-2.3.1.apk | 6 | 可下载 |
 | daxiaamu/OPlusBox | [v2.3.1](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.3.1) | OPLUSBox-2.3.1.apk | 765 | 可下载 |
 | Xposed-Modules-Repo/com.daxiaamu.oplusbox | 18-2.3.0 | OPLUSBox-2.3.0.apk | 2 | 已移除（保留最后记录） |
@@ -24,7 +24,7 @@
 | daxiaamu/OPlusBox | [v2.1.0](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.1.0) | OPLUSBox-2.1.0.apk | 36 | 可下载 |
 | Xposed-Modules-Repo/com.daxiaamu.oplusbox | [13-2.0.0](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox/releases/tag/13-2.0.0) | OPLUSBox-2.0.0.apk | 10 | 可下载 |
 | daxiaamu/OPlusBox | [v2.0.0](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.0.0) | OPLUSBox-2.0.0.apk | 178 | 可下载 |
-| daxiaamu/OPlusBox | [v1.9.15](https://github.com/daxiaamu/OPlusBox/releases/tag/v1.9.15) | OPLUSBox-1.9.15.apk | 91 | 可下载 |
+| daxiaamu/OPlusBox | [v1.9.15](https://github.com/daxiaamu/OPlusBox/releases/tag/v1.9.15) | OPLUSBox-1.9.15.apk | 92 | 可下载 |
 | daxiaamu/OPlusBox | [v1.9.14](https://github.com/daxiaamu/OPlusBox/releases/tag/v1.9.14) | OPLUSBox-1.9.14.apk | 419 | 可下载 |
 | daxiaamu/OPlusBox | [v1.9.13](https://github.com/daxiaamu/OPlusBox/releases/tag/v1.9.13) | OPLUSBox-1.9.13.apk | 15 | 可下载 |
 | daxiaamu/OPlusBox | [v1.9.12](https://github.com/daxiaamu/OPlusBox/releases/tag/v1.9.12) | OPLUSBox-1.9.12.apk | 15 | 可下载 |
