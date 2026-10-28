@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionCode": 21,
-  "versionName": "2.5.0",
-  "publishedAt": "2026-10-27T20:19:00Z",
-  "changelog": "- 新增“状态栏允许永久显秒”，长按时钟可在关闭、显秒 5 分钟、始终显秒之间切换\r\n- 改进 AirDrop 兼容性\r\n- 增强型本地安装进一步加强\r\n- 新增英语、日语、韩语、繁体中文\n\n[Android 开心版软件下载](https://pan.quark.cn/s/14e8a6044f77)\n",
+  "versionCode": 22,
+  "versionName": "2.5.1",
+  "publishedAt": "2026-10-28T18:52:38Z",
+  "changelog": "- 修复部分 ROOT 环境下 AirDrop 组件安装时的 SELinux 策略读取兼容问题\r\n- 修复 AirDrop 启用时 DexKit 本地库未初始化导致的失败\r\n\r\n[Android 开心版软件下载](https://pan.quark.cn/s/14e8a6044f77)\r\n",
   "maxForcedVersionCode": 0,
-  "policyRevision": 23,
-  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.0/OPLUSBox-2.5.0.apk",
+  "policyRevision": 24,
+  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.1/OPLUSBox-2.5.1.apk",
   "urls": [
-    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.0/OPLUSBox-2.5.0.apk",
-    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.0/OPLUSBox-2.5.0.apk",
-    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.0/OPLUSBox-2.5.0.apk",
-    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.0/OPLUSBox-2.5.0.apk",
-    "https://gh.monlor.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.0/OPLUSBox-2.5.0.apk",
-    "https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.0/OPLUSBox-2.5.0.apk"
+    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.1/OPLUSBox-2.5.1.apk",
+    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.1/OPLUSBox-2.5.1.apk",
+    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.1/OPLUSBox-2.5.1.apk",
+    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.1/OPLUSBox-2.5.1.apk",
+    "https://gh.monlor.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.1/OPLUSBox-2.5.1.apk",
+    "https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.1/OPLUSBox-2.5.1.apk"
   ],
-  "sha256": "ceab3a1b348f8ffc299268930f180b4541e8e0e69a6a40db7518c43cf20c5073",
+  "sha256": "c98bc7acdda84739b1c347796c5a641a2663b1cd4ce168f6d4406fcf570fe21e",
   "size": 6465792,
-  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v2.5.0",
+  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v2.5.1",
   "policyReason": "Regular optional update"
 }
