@@ -4,9 +4,9 @@
   "versionCode": 21,
   "versionName": "2.5.0",
   "publishedAt": "2026-10-27T20:19:00Z",
-  "changelog": "- 新增“状态栏允许永久显秒”，长按时钟可在关闭、显秒 5 分钟、始终显秒之间切换\r\n- 改进 AirDrop 兼容性\r\n- 增强型本地安装进一步加强\r\n- 新增英语、日语、韩语、繁体中文\r\n",
+  "changelog": "- 新增“状态栏允许永久显秒”，长按时钟可在关闭、显秒 5 分钟、始终显秒之间切换\r\n- 改进 AirDrop 兼容性\r\n- 增强型本地安装进一步加强\r\n- 新增英语、日语、韩语、繁体中文\n\n[Android 开心版软件下载](https://pan.quark.cn/s/14e8a6044f77)\n",
   "maxForcedVersionCode": 0,
-  "policyRevision": 22,
+  "policyRevision": 23,
   "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.0/OPLUSBox-2.5.0.apk",
   "urls": [
     "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.0/OPLUSBox-2.5.0.apk",
