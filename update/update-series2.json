@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionCode": 22,
-  "versionName": "2.5.1",
-  "publishedAt": "2026-10-28T18:52:38Z",
-  "changelog": "- 修复部分 ROOT 环境下 AirDrop 组件安装时的 SELinux 策略读取兼容问题\r\n- 修复 AirDrop 启用时 DexKit 本地库未初始化导致的失败\r\n\r\n[Android 开心版软件下载](https://pan.quark.cn/s/14e8a6044f77)\r\n",
+  "versionCode": 23,
+  "versionName": "2.5.2",
+  "publishedAt": "2026-11-01T22:11:42Z",
+  "changelog": "- 海外版系统兼容性提升\r\n- AirDrop 兼容性提升\r\n",
   "maxForcedVersionCode": 0,
-  "policyRevision": 24,
-  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.1/OPLUSBox-2.5.1.apk",
+  "policyRevision": 25,
+  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.2/OPLUSBox-2.5.2.apk",
   "urls": [
-    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.1/OPLUSBox-2.5.1.apk",
-    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.1/OPLUSBox-2.5.1.apk",
-    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.1/OPLUSBox-2.5.1.apk",
-    "https://gh.llkk.cc/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.1/OPLUSBox-2.5.1.apk",
-    "https://gh.monlor.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.1/OPLUSBox-2.5.1.apk",
-    "https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.1/OPLUSBox-2.5.1.apk"
+    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.2/OPLUSBox-2.5.2.apk",
+    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.2/OPLUSBox-2.5.2.apk",
+    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.2/OPLUSBox-2.5.2.apk",
+    "https://gh.monlor.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.2/OPLUSBox-2.5.2.apk",
+    "https://ghproxy.vip/https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.2/OPLUSBox-2.5.2.apk",
+    "https://github.com/daxiaamu/OPlusBox/releases/download/v2.5.2/OPLUSBox-2.5.2.apk"
   ],
-  "sha256": "c98bc7acdda84739b1c347796c5a641a2663b1cd4ce168f6d4406fcf570fe21e",
-  "size": 6465792,
-  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v2.5.1",
+  "sha256": "cb431cb2f34ecc0aba84b240be9ac27ac84a3ab154047c3ab658f24ed16b0dc2",
+  "size": 6486272,
+  "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v2.5.2",
   "policyReason": "Regular optional update"
 }
