@@ -10,6 +10,11 @@ For ColorOS 17. Application source code is private.
 
 支持运行在 ColorOS 16 上，但功能可用性不做保证。
 
+### 2.5.2
+
+- 海外版系统兼容性提升
+- AirDrop 兼容性提升
+
 ### 2.5.1
 
 - 修复部分 ROOT 环境下 AirDrop 组件安装时的 SELinux 策略读取兼容问题
