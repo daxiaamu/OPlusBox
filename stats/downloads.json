@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "repository": "daxiaamu/OPlusBox",
-  "updatedAt": "2026-11-09T06:53:33Z",
-  "totalDownloads": 5399,
+  "updatedAt": "2026-11-09T17:40:05Z",
+  "totalDownloads": 5496,
   "downloadsByRepository": {
-    "daxiaamu/OPlusBox": 5290,
+    "daxiaamu/OPlusBox": 5387,
     "Xposed-Modules-Repo/com.daxiaamu.oplusbox": 109
   },
   "assets": [
@@ -22,7 +22,7 @@
       "id": 699671807,
       "tag": "v2.5.2",
       "name": "OPLUSBox-2.5.2.apk",
-      "downloads": 1134,
+      "downloads": 1224,
       "publishedAt": "2026-11-01T22:11:42Z",
       "available": true
     },
@@ -40,7 +40,7 @@
       "id": 685999150,
       "tag": "v2.5.1",
       "name": "OPLUSBox-2.5.1.apk",
-      "downloads": 735,
+      "downloads": 736,
       "publishedAt": "2026-10-28T18:52:38Z",
       "available": true
     },
@@ -49,7 +49,7 @@
       "id": 682754310,
       "tag": "v2.5.0",
       "name": "OPLUSBox-2.5.0.apk",
-      "downloads": 275,
+      "downloads": 276,
       "publishedAt": "2026-10-27T20:19:00Z",
       "available": true
     },
@@ -76,7 +76,7 @@
       "id": 679168153,
       "tag": "v2.4.0",
       "name": "OPLUSBox-2.4.0.apk",
-      "downloads": 191,
+      "downloads": 192,
       "publishedAt": "2026-10-26T19:08:23Z",
       "available": true
     },
@@ -94,7 +94,7 @@
       "id": 663384323,
       "tag": "v2.3.1",
       "name": "OPLUSBox-2.3.1.apk",
-      "downloads": 772,
+      "downloads": 773,
       "publishedAt": "2026-10-21T18:15:38Z",
       "available": true
     },
@@ -148,7 +148,7 @@
       "id": 622055753,
       "tag": "v2.1.1",
       "name": "OPLUSBox-2.1.1.apk",
-      "downloads": 797,
+      "downloads": 798,
       "publishedAt": "2026-10-08T14:26:56Z",
       "available": true
     },
@@ -184,7 +184,7 @@
       "id": 620313924,
       "tag": "v2.0.0",
       "name": "OPLUSBox-2.0.0.apk",
-      "downloads": 186,
+      "downloads": 187,
       "publishedAt": "2026-10-08T00:42:38Z",
       "available": true
     },
@@ -193,7 +193,7 @@
       "id": 619081454,
       "tag": "v1.9.15",
       "name": "OPLUSBox-1.9.15.apk",
-      "downloads": 108,
+      "downloads": 109,
       "publishedAt": "2026-10-07T15:37:15Z",
       "available": true
     },
