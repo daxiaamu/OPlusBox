@@ -10,6 +10,12 @@ For ColorOS 17. Application source code is private.
 
 支持运行在 ColorOS 16 上，但功能可用性不做保证。
 
+### 2.5.3
+
+- 修复【解除实况时长限制】在 ColorOS 17 最新版的兼容性问题。
+- 改进氧 OS 16 原生界面兼容性。
+- 其他优化。
+
 ### 2.5.2
 
 - 海外版系统兼容性提升
