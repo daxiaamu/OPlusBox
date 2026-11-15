@@ -1,20 +1,20 @@
 # APK 下载统计
 
-累计记录：**6,058 次**
+累计记录：**6,130 次**
 
-最近统计变化：2026-11-15T02:50:17Z（UTC）
+最近统计变化：2026-11-15T11:14:39Z（UTC）
 
 | 仓库 | 累计记录 |
 | --- | ---: |
-| [daxiaamu/OPlusBox](https://github.com/daxiaamu/OPlusBox) | 5,937 |
-| [Xposed-Modules-Repo/com.daxiaamu.oplusbox](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox) | 121 |
+| [daxiaamu/OPlusBox](https://github.com/daxiaamu/OPlusBox) | 6,008 |
+| [Xposed-Modules-Repo/com.daxiaamu.oplusbox](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox) | 122 |
 
 | 仓库 | 版本 | APK | 下载次数 | 状态 |
 | --- | --- | --- | ---: | --- |
-| Xposed-Modules-Repo/com.daxiaamu.oplusbox | [24-2.5.3](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox/releases/tag/24-2.5.3) | OPLUSBox-2.5.3.apk | 4 | 可下载 |
-| daxiaamu/OPlusBox | [v2.5.3](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.5.3) | OPLUSBox-2.5.3.apk | 50 | 可下载 |
+| Xposed-Modules-Repo/com.daxiaamu.oplusbox | [24-2.5.3](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox/releases/tag/24-2.5.3) | OPLUSBox-2.5.3.apk | 5 | 可下载 |
+| daxiaamu/OPlusBox | [v2.5.3](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.5.3) | OPLUSBox-2.5.3.apk | 120 | 可下载 |
 | Xposed-Modules-Repo/com.daxiaamu.oplusbox | [23-2.5.2](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox/releases/tag/23-2.5.2) | OPLUSBox-2.5.2.apk | 40 | 可下载 |
-| daxiaamu/OPlusBox | [v2.5.2](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.5.2) | OPLUSBox-2.5.2.apk | 1,702 | 可下载 |
+| daxiaamu/OPlusBox | [v2.5.2](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.5.2) | OPLUSBox-2.5.2.apk | 1,703 | 可下载 |
 | Xposed-Modules-Repo/com.daxiaamu.oplusbox | [22-2.5.1](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox/releases/tag/22-2.5.1) | OPLUSBox-2.5.1.apk | 20 | 可下载 |
 | daxiaamu/OPlusBox | [v2.5.1](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.5.1) | OPLUSBox-2.5.1.apk | 740 | 可下载 |
 | daxiaamu/OPlusBox | [v2.5.0](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.5.0) | OPLUSBox-2.5.0.apk | 279 | 可下载 |
