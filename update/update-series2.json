@@ -4,20 +4,20 @@
   "versionCode": 25,
   "versionName": "2.6.0",
   "publishedAt": "2026-11-16T18:57:39Z",
-  "changelog": "- 新增用户中心，旧的“一加全能盒子”用户可以登录并延续会员资格。\r\n- 增强型本地安装新增“允许跨机型刷机”选项，仅会员可勾选；不勾选不影响使用其他【增强型本地安装】功能。\r\n- 新增模块护盾，提供启动异常救援及核心应用保护，会员功能；支持 KSU WebUI，展示系统启动次数、保护状态、救援参数及运行日志。\r\n- 改进部分系统的原生底栏兼容性。\r\n- 其他优化。\r\n\r\n[Android 开心版软件下载](https://pan.quark.cn/s/14e8a6044f77)\r\n",
+  "changelog": "- 新增用户中心，旧的“一加全能盒子”用户可以登录并延续会员资格。\n- 增强型本地安装新增“允许跨机型刷机”选项，仅会员可勾选；不勾选不影响使用其他【增强型本地安装】功能。\n- 新增模块护盾，提供启动异常救援及核心应用保护，会员功能；支持 KSU WebUI，展示系统启动次数、保护状态、救援参数及运行日志。\n- 改进部分系统的原生底栏兼容性。\n- 修复部分设备启动时误报“安全验证失败”的问题。\n- 其他优化。\n\n[Android 开心版软件下载](https://pan.quark.cn/s/14e8a6044f77)",
   "maxForcedVersionCode": 0,
-  "policyRevision": 27,
-  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.6.0/OPLUSBox-2.6.0.apk",
+  "policyRevision": 28,
+  "url": "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.6.0/OPLUSBox-2.6.0.apk?v=1d8e0c66d5026f197dc8",
   "urls": [
-    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.6.0/OPLUSBox-2.6.0.apk",
-    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.6.0/OPLUSBox-2.6.0.apk",
-    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v2.6.0/OPLUSBox-2.6.0.apk",
-    "https://gh.monlor.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.6.0/OPLUSBox-2.6.0.apk",
-    "https://ghproxy.vip/https://github.com/daxiaamu/OPlusBox/releases/download/v2.6.0/OPLUSBox-2.6.0.apk",
-    "https://github.com/daxiaamu/OPlusBox/releases/download/v2.6.0/OPLUSBox-2.6.0.apk"
+    "https://ghfast.top/https://github.com/daxiaamu/OPlusBox/releases/download/v2.6.0/OPLUSBox-2.6.0.apk?v=1d8e0c66d5026f197dc8",
+    "https://gh-proxy.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.6.0/OPLUSBox-2.6.0.apk?v=1d8e0c66d5026f197dc8",
+    "https://ghproxy.net/https://github.com/daxiaamu/OPlusBox/releases/download/v2.6.0/OPLUSBox-2.6.0.apk?v=1d8e0c66d5026f197dc8",
+    "https://gh.monlor.com/https://github.com/daxiaamu/OPlusBox/releases/download/v2.6.0/OPLUSBox-2.6.0.apk?v=1d8e0c66d5026f197dc8",
+    "https://ghproxy.vip/https://github.com/daxiaamu/OPlusBox/releases/download/v2.6.0/OPLUSBox-2.6.0.apk?v=1d8e0c66d5026f197dc8",
+    "https://github.com/daxiaamu/OPlusBox/releases/download/v2.6.0/OPLUSBox-2.6.0.apk?v=1d8e0c66d5026f197dc8"
   ],
-  "sha256": "1386ef0b39ce1b4b5fe8cdafa58abe20d9943e0dafc0cc29e3b9fd3b51c52197",
+  "sha256": "1d8e0c66d5026f197dc8aa372f735fcf215ff587900ee1f287e60639e2ccb12d",
   "size": 8174883,
   "releaseUrl": "https://github.com/daxiaamu/OPlusBox/releases/tag/v2.6.0",
-  "policyReason": "Regular optional update"
+  "policyReason": "Startup compatibility fix; optional update"
 }
