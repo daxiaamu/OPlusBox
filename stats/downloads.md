@@ -2,7 +2,7 @@
 
 累计记录：**6,354 次**
 
-最近统计变化：2026-11-17T01:34:24Z（UTC）
+最近统计变化：2026-11-17T01:36:47Z（UTC）
 
 | 仓库 | 累计记录 |
 | --- | ---: |
@@ -13,8 +13,8 @@
 | --- | --- | --- | ---: | --- |
 | Xposed-Modules-Repo/com.daxiaamu.oplusbox | [27-2.6.2](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox/releases/tag/27-2.6.2) | OPLUSBox-2.6.2.apk | 0 | 可下载 |
 | daxiaamu/OPlusBox | [v2.6.2](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.6.2) | OPLUSBox-2.6.2.apk | 0 | 可下载 |
-| Xposed-Modules-Repo/com.daxiaamu.oplusbox | [26-2.6.1](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox/releases/tag/26-2.6.1) | OPLUSBox-2.6.1.apk | 7 | 可下载 |
-| daxiaamu/OPlusBox | [v2.6.1](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.6.1) | OPLUSBox-2.6.1.apk | 33 | 可下载 |
+| Xposed-Modules-Repo/com.daxiaamu.oplusbox | 26-2.6.1 | OPLUSBox-2.6.1.apk | 7 | 已移除（保留最后记录） |
+| daxiaamu/OPlusBox | v2.6.1 | OPLUSBox-2.6.1.apk | 33 | 已移除（保留最后记录） |
 | Xposed-Modules-Repo/com.daxiaamu.oplusbox | 25-2.6.0 | OPLUSBox-2.6.0.apk | 0 | 已移除（保留最后记录） |
 | Xposed-Modules-Repo/com.daxiaamu.oplusbox | 25-2.6.0 | OPLUSBox-2.6.0.apk | 0 | 已移除（保留最后记录） |
 | daxiaamu/OPlusBox | v2.6.0 | OPLUSBox-2.6.0.apk | 0 | 已移除（保留最后记录） |
