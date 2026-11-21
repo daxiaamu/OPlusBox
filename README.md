@@ -10,6 +10,10 @@ For ColorOS 17. Application source code is private.
 
 支持运行在 ColorOS 16 上，但功能可用性不做保证。
 
+### 2.6.3
+
+- 允许购买会员
+
 ### 2.6.2
 
 - 新增用户中心，旧的“一加全能盒子”用户可以登录并延续会员资格。
