@@ -10,6 +10,10 @@ For ColorOS 17. Application source code is private.
 
 支持运行在 ColorOS 16 上，但功能可用性不做保证。
 
+### 2.6.4
+
+- 修复桌面增强功能在新版 ColorOS 17 上的兼容性问题
+
 ### 2.6.3
 
 - 允许购买会员
