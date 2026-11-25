@@ -10,6 +10,12 @@ For ColorOS 17. Application source code is private.
 
 支持运行在 ColorOS 16 上，但功能可用性不做保证。
 
+### 2.6.5
+
+- 修复检测更新误选 OPEX 更新包的问题，恢复正确读取和上报系统 OTA 更新信息。
+
+启动时自动查询支付状态改为静默执行，避免弹层阻塞操作。
+
 ### 2.6.4
 
 - 修复桌面增强功能在新版 ColorOS 17 上的兼容性问题
