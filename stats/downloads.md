@@ -1,18 +1,18 @@
 # APK 下载统计
 
-累计记录：**7,711 次**
+累计记录：**7,771 次**
 
-最近统计变化：2026-11-26T11:07:05Z（UTC）
+最近统计变化：2026-11-26T20:17:14Z（UTC）
 
 | 仓库 | 累计记录 |
 | --- | ---: |
-| [daxiaamu/OPlusBox](https://github.com/daxiaamu/OPlusBox) | 7,484 |
-| [Xposed-Modules-Repo/com.daxiaamu.oplusbox](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox) | 227 |
+| [daxiaamu/OPlusBox](https://github.com/daxiaamu/OPlusBox) | 7,540 |
+| [Xposed-Modules-Repo/com.daxiaamu.oplusbox](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox) | 231 |
 
 | 仓库 | 版本 | APK | 下载次数 | 状态 |
 | --- | --- | --- | ---: | --- |
-| daxiaamu/OPlusBox | [v2.6.5](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.6.5) | OPLUSBox-2.6.5.apk | 96 | 可下载 |
-| Xposed-Modules-Repo/com.daxiaamu.oplusbox | [64-2.6.5](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox/releases/tag/64-2.6.5) | OPLUSBox-2.6.5.apk | 16 | 可下载 |
+| daxiaamu/OPlusBox | [v2.6.5](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.6.5) | OPLUSBox-2.6.5.apk | 152 | 可下载 |
+| Xposed-Modules-Repo/com.daxiaamu.oplusbox | [64-2.6.5](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox/releases/tag/64-2.6.5) | OPLUSBox-2.6.5.apk | 20 | 可下载 |
 | daxiaamu/OPlusBox | [v2.6.4](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.6.4) | OPLUSBox-2.6.4.apk | 156 | 可下载 |
 | Xposed-Modules-Repo/com.daxiaamu.oplusbox | [63-2.6.4](https://github.com/Xposed-Modules-Repo/com.daxiaamu.oplusbox/releases/tag/63-2.6.4) | OPLUSBox-2.6.4.apk | 13 | 可下载 |
 | daxiaamu/OPlusBox | [v2.6.3](https://github.com/daxiaamu/OPlusBox/releases/tag/v2.6.3) | OPLUSBox-2.6.3.apk | 450 | 可下载 |
